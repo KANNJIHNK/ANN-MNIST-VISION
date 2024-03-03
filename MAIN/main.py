@@ -89,7 +89,7 @@ while True :
     elif auto_show and (time.time() - last_time > wait_time) :
         #print(time.time())
         output_list = []
-        img = train_img[random.randint(0,50000)].reshape(28,28)
+        img = test_img[random.randint(0,1000)].reshape(28,28)
         pred = an(torch.Tensor(img.reshape(1,1,28,28),device=device)/255.0).argmax()
         last_time = time.time()
         gochange = True
