@@ -1,3 +1,6 @@
+#四維梯度下降
+#左邊代表其中兩個維度與高度的關係，右邊代表剩下的一個維度與高的關係
+
 import numpy as np
 from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
