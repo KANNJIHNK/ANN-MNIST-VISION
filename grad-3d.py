@@ -1,3 +1,5 @@
+#三維梯度下降
+
 import numpy as np
 from mpl_toolkits.mplot3d import Axes3D
 import matplotlib.pyplot as plt
