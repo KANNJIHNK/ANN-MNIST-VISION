@@ -1,8 +1,8 @@
 # 科展程序碼
 
 ## 梯度下降
-### [三維梯度下降展示](https://github.com/KANNJIHNK/ANN-MNIST-VISION/blob/main/grad-3d.py)
-### [四維梯度下降展示](https://github.com/KANNJIHNK/ANN-MNIST-VISION/blob/main/grad-4d.py)
+### [三維梯度下降展示](https://github.com/KANNJIHNK/ANN-MNIST-VISION/blob/main/grad/grad-3d.py)
+### [四維梯度下降展示](https://github.com/KANNJIHNK/ANN-MNIST-VISION/blob/main/grad/grad-4d.py)
 
 
 ## 主項目
