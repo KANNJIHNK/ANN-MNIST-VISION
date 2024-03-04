@@ -1,4 +1,4 @@
-# 科展程序碼
+# 科展程式碼
 
 ## 梯度下降
 ### [三維梯度下降展示](https://github.com/KANNJIHNK/ANN-MNIST-VISION/blob/main/grad/grad-3d.py)
